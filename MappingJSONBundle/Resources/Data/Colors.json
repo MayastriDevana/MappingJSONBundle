@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Protos Pylon",
+        "color": "#00a8ff",
+        "image": "externaldrive.fill.badge.wifi"
+    },
+    {
+        "id": 2,
+        "name": "Vanadyl Blue",
+        "color": "#0097e6",
+        "image": "person.3.sequence.fill"
+    },
+    {
+        "id": 3,
+        "name": "Sea Brook",
+        "color": "#487eb0",
+        "image": "humidity"
+    }, {
+        "id": 4,
+        "name": "Naval",
+        "color": "#40739e",
+        "image": "speaker.wave.2.bubble.fill"
+    },
+    {
+        "id": 5,
+        "name": "Mazarine Blue",
+        "color": "#273c75",
+        "image": "sprinkler.and.droplets.fill"
+    }, 
+    {
+        "id": 6,
+        "name": "Pico Void",
+        "color": "#192a56",
+        "image": "airtag.radiowaves.forward.fill"
+    }
+]
